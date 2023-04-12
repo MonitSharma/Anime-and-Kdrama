@@ -1,6 +1,6 @@
-# Anime-List
+# Anime-List and K-Drama
 
-Hey! I'm making this for all the anime lovers. It includes anime series and movies of all genres
+Hey! I'm making this for all the anime and kdrama lovers. It includes anime series, dramas and movies of all genres
 
 
 ![Images](https://i.pinimg.com/originals/f1/6e/dc/f16edcb49c56db043bef00f778ad4496.jpg)
