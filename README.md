@@ -7,10 +7,60 @@ Hey! I'm making this for all the anime and kdrama lovers. It includes anime seri
 
 Feel free to add your favorite animes too xD
 
+
+
+
+# K Drama
+
+
+| Sr. No | Name | Where to Watch? |
+| :------------- | :-------------: | --------------: |
+| 1 | It's Okay not to be okay | <a href="https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd">
+  <img src="https://dramacool.sr/frontend/images/logo.jpg" width = '' >|
+
+| 2 | Hotel Del Luna | Row 2 Column 3 |
+| 3 | Goblin | Row 2 Column 3 |
+| 4 | Secretary Kim | Row 2 Column 3 |
+| 5 | Buisness Proposal | Row 2 Column 3 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---------
+# Anime
 
-
-# 👁Psychological
+## 👁Psychological
 
 ![Psychological](https://github.com/MonitSharma/Anime-List/blob/main/images/Psycho.png)
 
@@ -138,7 +188,7 @@ Feel free to add your favorite animes too xD
 -------
 
 
-# 🔅Supernatural
+## 🔅Supernatural
 
 ![Supernatural](https://github.com/MonitSharma/Anime-List/blob/main/images/supernat.png)
 
@@ -269,7 +319,7 @@ Feel free to add your favorite animes too xD
 --------------
 
 
-# ❄️Magic
+## ❄️Magic
 
 ![Magic](https://github.com/MonitSharma/Anime-List/blob/main/images/magic.png)
 
@@ -388,7 +438,7 @@ Feel free to add your favorite animes too xD
 
 ----------------
 
-# 🪐Slice of life
+## 🪐Slice of life
 
 ![Slice of Life](https://github.com/MonitSharma/Anime-List/blob/main/images/sliceoflife.png)
 
@@ -507,7 +557,7 @@ Feel free to add your favorite animes too xD
 ------
 
 
-# 🔥Sci-Fi / Mecha
+## 🔥Sci-Fi / Mecha
 
 ![Sci Fi](https://github.com/MonitSharma/Anime-List/blob/main/images/sci.png)
 
@@ -625,7 +675,7 @@ Feel free to add your favorite animes too xD
 
 --------------------
 
-# ⚠️Mystery
+## ⚠️Mystery
 
 ![Mystery](https://github.com/MonitSharma/Anime-List/blob/main/images/mystery.png)
 
@@ -745,7 +795,7 @@ Feel free to add your favorite animes too xD
 
 ------------------
 
-# 🏟Comedy
+## 🏟Comedy
 
 ![Comedy](https://github.com/MonitSharma/Anime-List/blob/main/images/comedy.png)
 
@@ -878,7 +928,7 @@ Feel free to add your favorite animes too xD
 
 
 
-# 💕Romance
+## 💕Romance
 ![Romance](https://github.com/MonitSharma/Anime-List/blob/main/images/romance.png)
 <table class="tg">
 <tr>
@@ -995,7 +1045,7 @@ Feel free to add your favorite animes too xD
 ---------------------
 
 
-# 🔫ACTION
+## 🔫ACTION
 ![Action](https://github.com/MonitSharma/Anime-List/blob/main/images/action.png)
 
 <table class="tg">
@@ -1129,7 +1179,7 @@ Feel free to add your favorite animes too xD
 ---------------
 
 
-# 🧟Horror
+## 🧟Horror
 ![Horror](https://github.com/MonitSharma/Anime-List/blob/main/images/horror.png)
 
 <table class="tg">
@@ -1251,7 +1301,7 @@ Feel free to add your favorite animes too xD
 ----------------
 
 
-# 💫Fantasy
+## 💫Fantasy
 ![Fantasy](https://github.com/MonitSharma/Anime-List/blob/main/images/Fantasy.png)
 <table class="tg">
 <tr>
@@ -1391,7 +1441,7 @@ Feel free to add your favorite animes too xD
 
 -------------
 
-# 🥳ADVENTURE
+## 🥳ADVENTURE
 
 ![Adventure](https://github.com/MonitSharma/Anime-List/blob/main/images/Adventure.png)
 
@@ -1505,7 +1555,7 @@ Feel free to add your favorite animes too xD
 ------
 
 
-# 🎬Some more movies 
+## 🎬Some more movies 
 
 ![Movie](https://github.com/MonitSharma/Anime-List/blob/main/images/Movie.png)
 <table class="tg">
