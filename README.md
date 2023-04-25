@@ -15,13 +15,13 @@ Feel free to add your favorite animes too xD
 
 | Sr. No | Name | Where to Watch? |
 | :------------- | :-------------: | --------------: |
-| 1 | It's Okay not to be okay | <a href="https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd">
-  <img src="https://dramacool.sr/frontend/images/logo.jpg" width = '' >|
-
-| 2 | Hotel Del Luna | Row 2 Column 3 |
-| 3 | Goblin | Row 2 Column 3 |
-| 4 | Secretary Kim | Row 2 Column 3 |
-| 5 | Buisness Proposal | Row 2 Column 3 |
+| 1 | It's Okay not to be okay | [Watch Here](https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd)|
+| 2 | Hotel Del Luna | [Watch here](https://dramacool.sr/drama-detail/hotel-del-luna-2019-et) |
+| 3 | Goblin | [Watch here](https://dramacool.sr/drama-detail/dokkaebi-2016-vl) |
+| 4 | What’s Wrong With Secretary Kim | [Watch Here](https://dramacool.sr/drama-detail/why-would-secretary-kim-do-that-ac) |
+| 5 | A Buisness Proposal |[Watch Here](https://dramacool.sr/drama-detail/a-business-proposal-2022-abfg) |
+| 6 | Crash Landing on You |[Watch Here](https://dramacool.sr/drama-detail/crash-landing-on-you-2019-abfg) |
+| 7 | My ID is Gangnam Beauty |[Watch Here](https://dramacool.sr/drama-detail/my-id-is-gangnam-beauty-vl) |
 
 
 
@@ -62,7 +62,7 @@ Feel free to add your favorite animes too xD
 
 ## 👁Psychological
 
-![Psychological](https://github.com/MonitSharma/Anime-List/blob/main/images/Psycho.png)
+
 
 <table class="tg">
 <tr>
