@@ -8,13 +8,16 @@ Hey! I'm making this for all the anime and kdrama lovers. It includes anime seri
 Feel free to add your favorite animes too xD
 
 
-
+![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/Kdrama-2.png)
 
 # K Drama
 
+![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/qw.png)
+
+
 
 | Sr. No | Name | Where to Watch? |
-| :------------- | :-------------: | --------------: |
+| :------------- | :-----------------------------------------: | --------------: |
 | 1 | It's Okay not to be okay | [Watch Here](https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd)|
 | 2 | Hotel Del Luna | [Watch here](https://dramacool.sr/drama-detail/hotel-del-luna-2019-et) |
 | 3 | Goblin | [Watch here](https://dramacool.sr/drama-detail/dokkaebi-2016-vl) |
