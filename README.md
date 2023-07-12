@@ -14,10 +14,10 @@ Feel free to add your favorite animes too xD
 
 ![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/qw.png)
 
+##Psycological 
 
-
-| Sr. No | Name | Where to Watch? |
-| :------------- | :-----------------------------------------: | --------------: |
+| Sr. No | Name | Description | Where to Watch? |
+| :------------- | :-----------------------------------------: | :-----------------------------------------: | --------------: |
 | 1 | It's Okay not to be okay | [Watch Here](https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd)|
 | 2 | Hotel Del Luna | [Watch here](https://dramacool.sr/drama-detail/hotel-del-luna-2019-et) |
 | 3 | Goblin | [Watch here](https://dramacool.sr/drama-detail/dokkaebi-2016-vl) |
@@ -26,8 +26,10 @@ Feel free to add your favorite animes too xD
 | 6 | Crash Landing on You |[Watch Here](https://dramacool.sr/drama-detail/crash-landing-on-you-2019-abfg) |
 | 7 | My ID is Gangnam Beauty |[Watch Here](https://dramacool.sr/drama-detail/my-id-is-gangnam-beauty-vl) |
 
+##Romentic-Comedy 
 
-
+| Sr. No | Name | Description | Where to Watch? |
+| :------------- | :-----------------------------------------: |:-----------------------------------------: | --------------: |
 
 
 
