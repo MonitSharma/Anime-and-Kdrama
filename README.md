@@ -14,25 +14,44 @@ Feel free to add your favorite animes too xD
 
 ![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/qw.png)
 
+##Psycological 
 
-
-| Sr. No | Name | Where to Watch? |
-| :------------- | :-----------------------------------------: | --------------: |
-| 1 | It's Okay not to be okay | [Watch Here](https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd)|
-| 2 | Hotel Del Luna | [Watch here](https://dramacool.sr/drama-detail/hotel-del-luna-2019-et) |
-| 3 | Goblin | [Watch here](https://dramacool.sr/drama-detail/dokkaebi-2016-vl) |
-| 4 | What’s Wrong With Secretary Kim | [Watch Here](https://dramacool.sr/drama-detail/why-would-secretary-kim-do-that-ac) |
-| 5 | A Buisness Proposal |[Watch Here](https://dramacool.sr/drama-detail/a-business-proposal-2022-abfg) |
-| 6 | Crash Landing on You |[Watch Here](https://dramacool.sr/drama-detail/crash-landing-on-you-2019-abfg) |
-| 7 | My ID is Gangnam Beauty |[Watch Here](https://dramacool.sr/drama-detail/my-id-is-gangnam-beauty-vl) |
+| Sr. No | Name | Description | Where to Watch? |
+| :------------- | :-----------------------------------------: | :-----------------------------------------: | --------------: |
+| 1 | It's Okay not to be okay |Only chaos is expected when a storybook writer suffering from an antisocial personality disorder falls in love with a man who denies love. But this is not just a love story, it is about finding your family, and friendship and finding yourself again| [Watch Here](https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd)|
+| 2 | Goblin | Waiting lifetimes to find his bride, what will happen when he finally finds the one? Is this the end?| [Watch here](https://dramacool.sr/drama-detail/dokkaebi-2016-vl) |
 
 
 
+##Romentic-Comedy 
+
+| Sr. No | Name | Description | Where to Watch? |
+| :------------- | :-----------------------------------------: |:-----------------------------------------: | --------------: |
+| 1 | A Business Proposal | Light-hearted romance which will make you want to believe in love again.|[Watch Here](https://dramacool.sr/drama-detail/a-business-proposal-2022-abfg) |
+| 2 | My ID is Gangnam Beauty |Beauty does lie in the eyes of the beholder.But what if this beauty is artificial? Would you still adore it?| [Watch Here](https://dramacool.sr/drama-detail/my-id-is-gangnam-beauty-vl) |
+| 3 | Crash Landing on You |An accident led to the fateful meeting between a rich South Korean heiress and a handsome North Korean soldier. Will she ever return home?| [Watch Here](https://dramacool.sr/drama-detail/crash-landing-on-you-2019-abfg) |
+| 4 | Lovestruck in the city | You know the ex you can never get over with? well, watch what happens when everything they shared with you  was a lie. Will there be a happy ending or will this make you swear off love.|[Watch Here](https://dramacool.hr/drama-detail/city-couple-s-way-of-love) |
+| 5 | If You Wish Upon Me | Neglected throughout his life with no one to love him. Watch the desperate life of Yoon Gyeo Rye and how he finds himself deserving of love.|[Watch Here](https://dramacool.hr/drama-detail/tell-me-your-wish) |
+| 6 | Suspicious Partner | Lawyers, murder mystery and chaotic lovers! Eun Bong Hee has been convicted wrongly which results in her losing everything. Watch how Ji Wook saves the woman who is destined to destroy him.|[Watch Here](https://dramacool.hr/drama-detail/suspicious-partner) |
+| 7 | The King: Eternal Monarch| He was the king of Korea but in an alternate universe. But apart from his duties,where does he disappear so often ? What is he hiding? |[Watch Here](https://dramacool.hr/drama-detail/the-king-the-eternal-monarch) |
+| 8 | The Legend of the Blue Sea | Have you ever loved someone so much you will follow them to their next life? Watch how Joon Jae and Sim Chong find each other and fall in love again. But wait, there is somebody else also who has reincarnated with them.|[Watch Here](https://dramacool.hr/drama-detail/the-legend-of-the-blue-sea)|
+| 9 | What’s Wrong With Secretary Kim |His aura is like sunshine, everything about him is so perfect that it is hard to keep up with him.But what is he hiding behind his perfect smile and why is he so obsessed with Miss Kim?| [Watch Here](https://dramacool.sr/drama-detail/why-would-secretary-kim-do-that-ac) |
 
 
 
+##Supernatural 
 
-
+| Sr. No | Name | Description | Where to Watch? |
+| :------------- | :-----------------------------------------: |:-----------------------------------------: | --------------: |
+| 1 | Hotel Del Luna |First of all, it's IU. Second, Will you sell your soul for revenge? |[Watch here](https://dramacool.sr/drama-detail/hotel-del-luna-2019-et) |
+| 2 | My Love from the Star|He was an alien waiting to go home, she was a once famous actress. But after meeting her something has changed.|[Watch here (https://dramacool.hr/drama-detail/my-love-from-the-star)|
+| 3 |Strong Woman Do Bong Soon | She is too strong for a human, but he still loves her. Watch how Bongsun embraces her powers to fight crimes with the help of MinMin|[Watch here](https://dramacool.hr/drama-detail/strong-woman-do-bong-soon) |
+| 4 | Tale of the Nine-Tailed |The mythical nine-tailed fox, or gumiho, Lee Yeon has searched for the love of his life to reincarnate, but what happens when he finally meets her? Is she really the same ?|[Watch here](https://dramacool.hr/drama-detail/the-story-of-gumiho) |
+| 5 | Tale of the Nine-Tailed 1938 |Lee Yeon goes back in time for a task, but finds someone else there, who is supposed to be dead. Will he come back in time to save the world or stay back with his loved one? |[Watch here](https://dramacool.hr/drama-detail/tale-of-the-nine-tailed-season-2) |
+| 6 | Alchemy of Souls |Jang Wook not only holds an unpleasant secret about his birth but he is also powerless in a world filled with magic.Watch how he finds his suspicious teacher, who is an assassin trapped in a physically weak body due to magic gone wrong.|[Watch here](https://dramacool.hr/drama-detail/salvation-interpreter) |
+| 7 | Alchemy of Souls Season 2: Light and Shadow |Jang Wook although now the most powerful wizard is like a deadbody without his love waiting to die. But all hope is not lost as although the body is dead, the soul may still live on|[Watch here](https://dramacool.hr/drama-detail/alchemy-of-souls-part-2-2022) |
+| 8 | Doom at Your Service|She was terminally sick and wanted the entire world to end, but what if the doom himself falls in love with her? Will he save her despite his duties? |[Watch here](https://dramacool.hr/drama-detail/destruction-2021) |
+| 9 | Oh My Ghost | Can a virgin ghost be horny? Watch how after being possessed by a ghost, Na Bong Sun life changes !|[Watch here](https://dramacool.hr/drama-detail/oh-my-ghost) |
 
 
 
