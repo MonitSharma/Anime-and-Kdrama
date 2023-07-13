@@ -1,32 +1,60 @@
 # Anime-List and K-Drama
 
-Hey! I'm making this for all the anime and kdrama lovers. It includes anime series, dramas and movies of all genres
-
+Hey! I'm making this for all anime and K-drama lovers. It includes anime series, dramas and movies of all genres
 
 ![Images](https://i.pinimg.com/originals/f1/6e/dc/f16edcb49c56db043bef00f778ad4496.jpg)
 
-Feel free to add your favorite animes too xD
+Feel free to add your favourite animes too
+
+# Content
+
+- [K Drama](#kdrama)
+
+  - [Psychological](#Psychological)
+  - [Romantic-Comedy](#Romantic-Comedy)
+  - [Supernatural](#Supernatural)
+
+- [Anime](#anime)
+
+    - [Psychological](#Psychological)
+    - [Supernatural](#Supernatural)
+    - [Magic](#Magic)
+    - [Slice of life](#Sliceoflife)
+    - [Sci-Fi](#scifi)
+    - [Mystery](#mystery)
+    - [Comedy](#comedy)
+    - [Romance](#romance)
+    - [ACTION](#action)
+    - [Horror](#horror)
+    - [Fantasy](#fantasy)
+    - [ADVENTURE](#adventure)
+    - [Movies](#movies) 
+      
+  
 
 
-![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/Kdrama-2.png)
 
-# K Drama
+
+-----
+
+# KDrama
+
 
 ![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/qw.png)
 
-##Psycological 
+## Psychological 
 
 | Sr. No | Name | Description | Where to Watch? |
-| :------------- | :-----------------------------------------: | :-----------------------------------------: | --------------: |
+| ------------- | ---------------------------------------- | ---------------------------------------- | -------------- |
 | 1 | It's Okay not to be okay |Only chaos is expected when a storybook writer suffering from an antisocial personality disorder falls in love with a man who denies love. But this is not just a love story, it is about finding your family, and friendship and finding yourself again| [Watch Here](https://dramacool.sr/drama-detail/its-okay-to-not-be-okay-asgg-fgd)|
 | 2 | Goblin | Waiting lifetimes to find his bride, what will happen when he finally finds the one? Is this the end?| [Watch here](https://dramacool.sr/drama-detail/dokkaebi-2016-vl) |
 
 
 
-##Romentic-Comedy 
+## Romantic-Comedy 
 
 | Sr. No | Name | Description | Where to Watch? |
-| :------------- | :-----------------------------------------: |:-----------------------------------------: | --------------: |
+| ------------- | ----------------------------------------- |----------------------------------------- | -------------- |
 | 1 | A Business Proposal | Light-hearted romance which will make you want to believe in love again.|[Watch Here](https://dramacool.sr/drama-detail/a-business-proposal-2022-abfg) |
 | 2 | My ID is Gangnam Beauty |Beauty does lie in the eyes of the beholder.But what if this beauty is artificial? Would you still adore it?| [Watch Here](https://dramacool.sr/drama-detail/my-id-is-gangnam-beauty-vl) |
 | 3 | Crash Landing on You |An accident led to the fateful meeting between a rich South Korean heiress and a handsome North Korean soldier. Will she ever return home?| [Watch Here](https://dramacool.sr/drama-detail/crash-landing-on-you-2019-abfg) |
@@ -39,12 +67,12 @@ Feel free to add your favorite animes too xD
 
 
 
-##Supernatural 
+## Supernatural 
 
 | Sr. No | Name | Description | Where to Watch? |
-| :------------- | :-----------------------------------------: |:-----------------------------------------: | --------------: |
-| 1 | Hotel Del Luna |First of all, it's IU. Second, Will you sell your soul for revenge? |[Watch here](https://dramacool.sr/drama-detail/hotel-del-luna-2019-et) |
-| 2 | My Love from the Star|He was an alien waiting to go home, she was a once famous actress. But after meeting her something has changed.|[Watch here (https://dramacool.hr/drama-detail/my-love-from-the-star)|
+| ------------- | ---------------------------------------- |----------------------------------------- | -------------- |
+| 1 | Hotel Del Luna |First of all, it's **IU**. Second, Will you sell your soul for revenge? |[Watch here](https://dramacool.sr/drama-detail/hotel-del-luna-2019-et) |
+| 2 | My Love from the Star|He was an alien waiting to go home, she was a once famous actress. But after meeting her something has changed.|[Watch here](https://dramacool.hr/drama-detail/my-love-from-the-star)|
 | 3 |Strong Woman Do Bong Soon | She is too strong for a human, but he still loves her. Watch how Bongsun embraces her powers to fight crimes with the help of MinMin|[Watch here](https://dramacool.hr/drama-detail/strong-woman-do-bong-soon) |
 | 4 | Tale of the Nine-Tailed |The mythical nine-tailed fox, or gumiho, Lee Yeon has searched for the love of his life to reincarnate, but what happens when he finally meets her? Is she really the same ?|[Watch here](https://dramacool.hr/drama-detail/the-story-of-gumiho) |
 | 5 | Tale of the Nine-Tailed 1938 |Lee Yeon goes back in time for a task, but finds someone else there, who is supposed to be dead. Will he come back in time to save the world or stay back with his loved one? |[Watch here](https://dramacool.hr/drama-detail/tale-of-the-nine-tailed-season-2) |
