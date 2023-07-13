@@ -1,12 +1,15 @@
-# Anime-List and K-Drama
-
-Hey! I'm making this for all anime and K-drama lovers. It includes anime series, dramas and movies of all genres
+# Anime-KDrama-Watchlist
 
 ![Images](https://i.pinimg.com/originals/f1/6e/dc/f16edcb49c56db043bef00f778ad4496.jpg)
 
-Feel free to add your favourite animes too
+Welcome to the Anime-KDrama-Watchlist repository! This repository is dedicated to curating a comprehensive list of recommended anime and Korean dramas (kdramas) for enthusiasts to explore. Whether you are a seasoned anime lover, a K-drama fan, or someone looking to venture into these genres, this watchlist will serve as a valuable resource.
 
-# Content
+# About
+In this repository, you will find a curated collection of anime and kdramas that have been carefully selected based on their popularity, critical acclaim, and fan recommendations. The watchlist includes a diverse range of genres, from action and romance to fantasy and sci-fi, ensuring there's something for everyone's taste.
+
+# Contents
+The repository is organized into two main folders:
+
 
 - [K Drama](#kdrama)
 
@@ -38,6 +41,15 @@ Feel free to add your favourite animes too
 -----
 
 # KDrama
+
+The KDrama folder comprises a compilation of must-watch Korean dramas. Each entry includes the following details:
+
+<li> Genre: The genre(s) that the kdrama falls under.
+<li> Title: The title of the drama.
+<li> Synopsis: A concise overview of the plot.
+<lI> Where to Watch?: The place to watch!.
+
+Take your time to browse through the KDrama folder and find captivating kdramas that will keep you hooked from start to finish!
 
 
 ![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/qw.png)
@@ -107,8 +119,21 @@ Feel free to add your favourite animes too
 
 
 
----------
+
 # Anime
+
+
+The Anime folder contains a list of recommended anime series, movies, and OVAs (original video animations). Each entry provides the following information:
+<li> Genre: The genre(s) that the anime belongs to.
+<li> Title: The name of the anime.
+<li> Description: A brief summary of the storyline.
+<li> Where to Watch?: The link to watch!
+
+
+Feel free to explore the Anime folder and discover exciting new anime to add to your watchlist!
+
+
+
 
 ## 👁Psychological
 
@@ -1733,3 +1758,20 @@ Feel free to add your favourite animes too
 
 
 </table>
+
+
+
+
+# Contributing
+We appreciate contributions from the community to make this watchlist even more comprehensive and diverse. If you have any anime or kdrama recommendations that you believe deserve a spot on this list, please follow these steps:
+
+1. Fork this repository.
+2. Create a new branch with a descriptive name for your contribution.
+3. Add your recommended anime or kdrama to the appropriate folder, following the existing format.
+4. Write a brief description of the series or drama, including the title, genre, synopsis, release year, and rating.
+5. Submit a pull request, explaining the addition you have made and why it should be included.
+
+Please note that all contributions will be reviewed to ensure they align with the quality and criteria of the watchlist.
+
+# Disclaimer
+The watchlist provided in this repository is subjective and based on popular opinion, critical reception, and recommendations. Individual preferences may vary, and it is encouraged to explore beyond the list to discover more titles that suit your personal taste.
