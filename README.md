@@ -240,7 +240,7 @@ Feel free to add your favourite animes too
 
 ## 🔅Supernatural
 
-![Supernatural](https://github.com/MonitSharma/Anime-List/blob/main/images/supernat.png)
+
 
 <table class="tg">
 <tr>
@@ -371,7 +371,7 @@ Feel free to add your favourite animes too
 
 ## ❄️Magic
 
-![Magic](https://github.com/MonitSharma/Anime-List/blob/main/images/magic.png)
+
 
 <table class="tg">
 <tr>
@@ -490,7 +490,7 @@ Feel free to add your favourite animes too
 
 ## 🪐Slice of life
 
-![Slice of Life](https://github.com/MonitSharma/Anime-List/blob/main/images/sliceoflife.png)
+
 
 <table class="tg">
 <tr>
@@ -609,7 +609,6 @@ Feel free to add your favourite animes too
 
 ## 🔥Sci-Fi / Mecha
 
-![Sci Fi](https://github.com/MonitSharma/Anime-List/blob/main/images/sci.png)
 
 <table class="tg">
 <tr>
@@ -727,7 +726,7 @@ Feel free to add your favourite animes too
 
 ## ⚠️Mystery
 
-![Mystery](https://github.com/MonitSharma/Anime-List/blob/main/images/mystery.png)
+
 
 <table class="tg">
 <tr>
@@ -847,7 +846,7 @@ Feel free to add your favourite animes too
 
 ## 🏟Comedy
 
-![Comedy](https://github.com/MonitSharma/Anime-List/blob/main/images/comedy.png)
+
 
 <table class="tg">
 <tr>
@@ -979,7 +978,7 @@ Feel free to add your favourite animes too
 
 
 ## 💕Romance
-![Romance](https://github.com/MonitSharma/Anime-List/blob/main/images/romance.png)
+
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -1096,7 +1095,7 @@ Feel free to add your favourite animes too
 
 
 ## 🔫ACTION
-![Action](https://github.com/MonitSharma/Anime-List/blob/main/images/action.png)
+
 
 <table class="tg">
 <tr>
@@ -1230,7 +1229,7 @@ Feel free to add your favourite animes too
 
 
 ## 🧟Horror
-![Horror](https://github.com/MonitSharma/Anime-List/blob/main/images/horror.png)
+
 
 <table class="tg">
 <tr>
@@ -1352,7 +1351,7 @@ Feel free to add your favourite animes too
 
 
 ## 💫Fantasy
-![Fantasy](https://github.com/MonitSharma/Anime-List/blob/main/images/Fantasy.png)
+
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
@@ -1493,7 +1492,7 @@ Feel free to add your favourite animes too
 
 ## 🥳ADVENTURE
 
-![Adventure](https://github.com/MonitSharma/Anime-List/blob/main/images/Adventure.png)
+
 
 <table class="tg">
 <tr>
@@ -1607,7 +1606,7 @@ Feel free to add your favourite animes too
 
 ## 🎬Some more movies 
 
-![Movie](https://github.com/MonitSharma/Anime-List/blob/main/images/Movie.png)
+
 <table class="tg">
 <tr>
   <th class="tg-yw4l"><b>Sr. No</b></th>
