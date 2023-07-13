@@ -2,10 +2,10 @@
 
 ![Images](https://i.pinimg.com/originals/f1/6e/dc/f16edcb49c56db043bef00f778ad4496.jpg)
 
-Welcome to the Anime-KDrama-Watchlist repository! This repository is dedicated to curating a comprehensive list of recommended anime and Korean dramas (kdramas) for enthusiasts to explore. Whether you are a seasoned anime lover, a K-drama fan, or someone looking to venture into these genres, this watchlist will serve as a valuable resource.
+Welcome to the Anime-KDrama-Watchlist repository! This repository is dedicated to curating a comprehensive list of recommended anime and Korean dramas (K-dramas) for enthusiasts to explore. Whether you are a seasoned anime lover, a K-drama fan, or someone looking to venture into these genres, this watchlist will serve as a valuable resource.
 
 # About
-In this repository, you will find a curated collection of anime and kdramas that have been carefully selected based on their popularity, critical acclaim, and fan recommendations. The watchlist includes a diverse range of genres, from action and romance to fantasy and sci-fi, ensuring there's something for everyone's taste.
+In this repository, you will find a curated collection of anime and K-Dramas that have been carefully selected based on their popularity, critical acclaim, and fan recommendations. The watchlist includes a diverse range of genres, from action and romance to fantasy and sci-fi, ensuring there's something for everyone's taste.
 
 # Contents
 The repository is organized into two main folders:
@@ -13,17 +13,17 @@ The repository is organized into two main folders:
 
 - [K Drama](#kdrama)
 
-  - [Psychological](#Psychological)
-  - [Romantic-Comedy](#Romantic-Comedy)
-  - [Supernatural](#Supernatural)
+  - [Psychological](#psychological)
+  - [Romantic-Comedy](#romantic-comedy)
+  - [Supernatural](#supernatural)
 
 - [Anime](#anime)
 
-    - [Psychological](#Psychological)
-    - [Supernatural](#Supernatural)
-    - [Magic](#Magic)
-    - [Slice of life](#Sliceoflife)
-    - [Sci-Fi](#scifi)
+    - [Psychological](#psychological)
+    - [Supernatural](#supernatural)
+    - [Magic](#magic)
+    - [Slice of life](#slice-of-life)
+    - [Sci-Fi](#sci-fi)
     - [Mystery](#mystery)
     - [Comedy](#comedy)
     - [Romance](#romance)
@@ -38,7 +38,7 @@ The repository is organized into two main folders:
 
 
 
------
+
 
 # KDrama
 
@@ -47,9 +47,9 @@ The KDrama folder comprises a compilation of must-watch Korean dramas. Each entr
 <li> Genre: The genre(s) that the kdrama falls under.
 <li> Title: The title of the drama.
 <li> Synopsis: A concise overview of the plot.
-<lI> Where to Watch?: The place to watch!.
+<lI> Where to Watch?: The place to watch!
 
-Take your time to browse through the KDrama folder and find captivating kdramas that will keep you hooked from start to finish!
+Take your time to browse through the KDrama folder and find captivating K-dramas that will keep you hooked from start to finish!
 
 
 ![Images](https://github.com/MonitSharma/Anime-and-Kdrama/blob/main/images/qw.png)
@@ -88,35 +88,10 @@ Take your time to browse through the KDrama folder and find captivating kdramas 
 | 3 |Strong Woman Do Bong Soon | She is too strong for a human, but he still loves her. Watch how Bongsun embraces her powers to fight crimes with the help of MinMin|[Watch here](https://dramacool.hr/drama-detail/strong-woman-do-bong-soon) |
 | 4 | Tale of the Nine-Tailed |The mythical nine-tailed fox, or gumiho, Lee Yeon has searched for the love of his life to reincarnate, but what happens when he finally meets her? Is she really the same ?|[Watch here](https://dramacool.hr/drama-detail/the-story-of-gumiho) |
 | 5 | Tale of the Nine-Tailed 1938 |Lee Yeon goes back in time for a task, but finds someone else there, who is supposed to be dead. Will he come back in time to save the world or stay back with his loved one? |[Watch here](https://dramacool.hr/drama-detail/tale-of-the-nine-tailed-season-2) |
-| 6 | Alchemy of Souls |Jang Wook not only holds an unpleasant secret about his birth but he is also powerless in a world filled with magic.Watch how he finds his suspicious teacher, who is an assassin trapped in a physically weak body due to magic gone wrong.|[Watch here](https://dramacool.hr/drama-detail/salvation-interpreter) |
-| 7 | Alchemy of Souls Season 2: Light and Shadow |Jang Wook although now the most powerful wizard is like a deadbody without his love waiting to die. But all hope is not lost as although the body is dead, the soul may still live on|[Watch here](https://dramacool.hr/drama-detail/alchemy-of-souls-part-2-2022) |
+| 6 | Alchemy of Souls |Jang Wook not only holds an unpleasant secret about his birth but he is also powerless in a world filled with magic. Watch how he finds his suspicious teacher, who is an assassin trapped in a physically weak body due to magic gone wrong.|[Watch here](https://dramacool.hr/drama-detail/salvation-interpreter) |
+| 7 | Alchemy of Souls Season 2: Light and Shadow |Jang Wook although now the most powerful wizard is like a dead body without his love waiting to die. But all hope is not lost as although the body is dead, the soul may still live on|[Watch here](https://dramacool.hr/drama-detail/alchemy-of-souls-part-2-2022) |
 | 8 | Doom at Your Service|She was terminally sick and wanted the entire world to end, but what if the doom himself falls in love with her? Will he save her despite his duties? |[Watch here](https://dramacool.hr/drama-detail/destruction-2021) |
-| 9 | Oh My Ghost | Can a virgin ghost be horny? Watch how after being possessed by a ghost, Na Bong Sun life changes !|[Watch here](https://dramacool.hr/drama-detail/oh-my-ghost) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 9 | Oh My Ghost | Can a virgin ghost be horny? Watch how after being possessed by a ghost, Na Bong Sun's life changes !|[Watch here](https://dramacool.hr/drama-detail/oh-my-ghost) |
 
 
 
@@ -260,7 +235,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
   
 
--------
+
 
 
 ## 🔅Supernatural
@@ -335,7 +310,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">6.</td>
   <td class="tg-yw4l">Hinamatsuri</td>
-  <td class="tg-yw4l">While reveling in the successful clinching of a prized vase for his collection, Yoshifumi Nitta, a yakuza member, is rudely interrupted when a large, peculiar capsule suddenly materializes and falls on his head.</td>  
+  <td class="tg-yw4l">While revelling in the successful clinching of a prized vase for his collection, Yoshifumi Nitta, a yakuza member, is rudely interrupted when a large, peculiar capsule suddenly materializes and falls on his head.</td>  
   <td class="tg-yw4l"><a href="https://zoro.to/hinamatsuri-275?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -379,7 +354,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">10.</td>
   <td class="tg-yw4l">kekkai sensen </td>
-  <td class="tg-yw4l">Supersonic monkeys, vampires, talking fishmen, and all sorts of different supernatural monsters living alongside humans—this has been part of daily life in Hellsalem's Lot </td>  
+  <td class="tg-yw4l">Supersonic monkeys, vampires, talking fishermen, and all sorts of different supernatural monsters living alongside humans—this has been part of daily life in Hellsalem's Lot </td>  
   <td class="tg-yw4l"><a href="https://zoro.to/blood-blockade-battlefront-1134?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -391,10 +366,10 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 </table> 
   
 
---------------
 
 
-## ❄️Magic
+
+## Magic
 
 
 
@@ -440,7 +415,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">4.</td>
   <td class="tg-yw4l">Rising of the shield hero</td>
-  <td class="tg-yw4l">The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviors. </td>    
+  <td class="tg-yw4l">The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviours. </td>    
   <td class="tg-yw4l"><a href="https://zoro.to/the-rising-of-the-shield-hero-524?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -511,7 +486,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 </table> 
 
-----------------
+
 
 ## 🪐Slice of life
 
@@ -540,7 +515,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">2.</td>
   <td class="tg-yw4l">Smile down the Runway</td>
-  <td class="tg-yw4l">Being the daughter of a modeling agency owner, Chiyuki Fujito aspires to represent her father's agency in the prestigious Paris Fashion Week, shining under the spotlight as a runway model. </td>   
+  <td class="tg-yw4l">Being the daughter of a modelling agency owner, Chiyuki Fujito aspires to represent her father's agency in the prestigious Paris Fashion Week, shining under the spotlight as a runway model. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/smile-down-the-runway-1047?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -580,7 +555,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">6.</td>
   <td class="tg-yw4l">Somali and the forest spirit</td>
-  <td class="tg-yw4l">In a world inhabited by demons, cyclopes, and other fantastic creatures, humans stand apart as the outcasts. Quick to anger, the human race engaged in a war that all but wiped them out</td>   
+  <td class="tg-yw4l">In a world inhabited by demons, cyclopes, and other fantastic creatures, humans stand apart as outcasts. Quick to anger, the human race engaged in a war that all but wiped them out</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/somali-and-the-forest-spirit-755?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -590,7 +565,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">7.</td>
   <td class="tg-yw4l">Love, Chunibyo & Other Delusions!</td>
-  <td class="tg-yw4l">Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves capable of wielding mystical powers</td>   
+  <td class="tg-yw4l">Everybody has had that stage in their life where they have thought themselves to be special, different from the masses of ordinary humans. They might go as far as seeing themselves as capable of wielding mystical powers</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/love-chunibyo-other-delusions-843?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -600,7 +575,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">8.</td>
   <td class="tg-yw4l">March comes like a Lion</td>
-  <td class="tg-yw4l">Having reached professional status in middle school, Rei Kiriyama is one of the few elite in the world of shogi. Due to this, he faces an enormous amount of pressure, both from the shogi community and his adoptive family</td>   
+  <td class="tg-yw4l">Having reached professional status in middle school, Rei Kiriyama is one of the few elites in the world of shogi. Due to this, he faces an enormous amount of pressure, both from the shogi community and his adoptive family</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/march-comes-in-like-a-lion-119?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -620,7 +595,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">10.</td>
   <td class="tg-yw4l">Ascendance of a Book worm</td>
-  <td class="tg-yw4l">Urano Motosu loves books and has an endless desire to read literature, no matter the subject. She almost fulfills her dream job of becoming a librarian before her life is ended in an accident.</td>   
+  <td class="tg-yw4l">Urano Motosu loves books and has an endless desire to read literature, no matter the subject. She almost fulfils her dream job of becoming a librarian before her life is ended in an accident.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/ascendance-of-a-bookworm-467?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -629,10 +604,9 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 </table> 
 
-------
 
 
-## 🔥Sci-Fi / Mecha
+## 🔥Sci-Fi
 
 
 <table class="tg">
@@ -707,7 +681,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">7.</td>
   <td class="tg-yw4l">Dr stone</td>
-  <td class="tg-yw4l">After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.</td>   
+  <td class="tg-yw4l">After five years of harbouring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession, however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/mobile-suit-gundam-856?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -747,9 +721,9 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 </table> 
 
---------------------
 
-## ⚠️Mystery
+
+## Mystery
 
 
 
@@ -818,7 +792,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">6.</td>
   <td class="tg-yw4l">Durarara</td>
-  <td class="tg-yw4l">In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless "Black Rider"</td>   
+  <td class="tg-yw4l">In Tokyo's downtown district of Ikebukuro, amidst many strange rumours and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless "Black Rider"</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/durarara-303?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -828,7 +802,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">7.</td>
   <td class="tg-yw4l">Darker than Black</td>
-  <td class="tg-yw4l">It has been 10 years since Heaven's Gate appeared in South America and Hell's Gate appeared in Japan, veiling the once familiar night sky with an oppressive skyscape. Their purposes unknown, these Gates are spaces in which the very laws of physics are ignored.</td>   
+  <td class="tg-yw4l">It has been 10 years since Heaven's Gate appeared in South America and Hell's Gate appeared in Japan, veiling the once familiar night sky with an oppressive skyscape. Their purposes were unknown, these Gates are spaces in which the very laws of physics are ignored.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/darker-than-black-373?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -839,7 +813,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">8.</td>
   <td class="tg-yw4l">The Future Diary</td>
-  <td class="tg-yw4l">Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone, while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god's servant.</td>   
+  <td class="tg-yw4l">Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god's servant.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/the-future-diary-1281?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -867,9 +841,9 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
   
 </table>
 
-------------------
 
-## 🏟Comedy
+
+## Comedy
 
 
 
@@ -937,7 +911,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">6.</td>
   <td class="tg-yw4l">Haven't you heard I'm Sakamoto</td>
-  <td class="tg-yw4l">Sophisticated, suave, sublime; all words which describe the exceedingly handsome and patently perfect Sakamoto. Though it is only his first day in high school, his attractiveness, intelligence, and charm already has the girls swooning and the guys fuming with jealousy.</td>   
+  <td class="tg-yw4l">Sophisticated, suave, sublime; all words which describe the exceedingly handsome and patently perfect Sakamoto. Though it is only his first day in high school, his attractiveness, intelligence, and charm already have the girls swooning and the guys fuming with jealousy.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/havent-you-heard-im-sakamoto-1247?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -979,7 +953,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">10.</td>
   <td class="tg-yw4l">Cautious Hero</td>
-  <td class="tg-yw4l">There is a popular saying: "you can never be too careful." It is very important to prepare for every situation you may face, even if it seems like an unnecessary waste of time. Also, in games like RPGs, it is good to exceed the level of your enemies to achieve total victory</td>   
+  <td class="tg-yw4l">There is a popular saying: "You can never be too careful." It is very important to prepare for every situation you may face, even if it seems like an unnecessary waste of time. Also, in games like RPGs, it is good to exceed the level of your enemies to achieve total victory</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/cautious-hero-the-hero-is-overpowered-but-overly-cautious-1350?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -998,11 +972,11 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 </table>
 
 
------------
 
 
 
-## 💕Romance
+
+## Romance
 
 <table class="tg">
 <tr>
@@ -1047,7 +1021,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">4.</td>
   <td class="tg-yw4l">Clannad</td>
-  <td class="tg-yw4l">Tomoya Okazaki is a cynical delinquent who lacks ambition as he apathetically labors through high school. During his childhood, a tragedy had caused his father to seek solace in alcoholism and neglect his son. </td>   
+  <td class="tg-yw4l">Tomoya Okazaki is a cynical delinquent who lacks ambition as he apathetically labours through high school. During his childhood, a tragedy caused his father to seek solace in alcoholism and neglect his son. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/clannad-the-movie-2553?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1057,7 +1031,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">6.</td>
   <td class="tg-yw4l">Toradora!</td>
-  <td class="tg-yw4l">Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labeled as a delinquent </td>   
+  <td class="tg-yw4l">Ryuuji Takasu is a gentle high school student with a love for housework; but in contrast to his kind nature, he has an intimidating face that often gets him labelled as a delinquent </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/toradora-232?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1116,7 +1090,6 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 </table>
 
 
----------------------
 
 
 ## 🔫ACTION
@@ -1135,7 +1108,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">1.</td>
   <td class="tg-yw4l">My hero academia </td>
-  <td class="tg-yw4l">The appearance of "quirks," newly discovered super powers, has been steadily increasing over the years, with 80 percent of humanity possessing various abilities from manipulation of elements to shapeshifting.</td>   
+  <td class="tg-yw4l">The appearance of "quirks," newly discovered superpowers, has been steadily increasing over the years, with 80 per cent of humanity possessing various abilities from manipulation of elements to shapeshifting.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/my-hero-academia-322?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1155,7 +1128,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">3.</td>
   <td class="tg-yw4l">Dragon Ball</td>
-  <td class="tg-yw4l">SON-Goku is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the "Dragon Balls." Since the artifacts are said to grant one wish to whoever collects all seven,</td>   
+  <td class="tg-yw4l">SON-Goku is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the "Dragon Balls." Since the artefacts are said to grant one wish to whoever collects all seven,</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/dragon-ball-509?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1242,7 +1215,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">12.</td>
   <td class="tg-yw4l">Junni Taisen</td>
-  <td class="tg-yw4l">Every 12 years, mercenaries who possess the highest caliber of brute strength, cunning wit, and deadly precision gather to participate in the Zodiac Tournament. Each warrior bears the name and attributes of one of the 12 animals of the Chinese zodiac.</td>   <td class="tg-yw4l"><a href="https://zoro.to/juni-taisen-zodiac-war-5497?ref=search">
+  <td class="tg-yw4l">Every 12 years, mercenaries who possess the highest calibre of brute strength, cunning wit, and deadly precision gather to participate in the Zodiac Tournament. Each warrior bears the name and attributes of one of the 12 animals of the Chinese zodiac.</td>   <td class="tg-yw4l"><a href="https://zoro.to/juni-taisen-zodiac-war-5497?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
 </tr>
@@ -1250,7 +1223,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
   
 </table>
 
----------------
+
 
 
 ## 🧟Horror
@@ -1290,7 +1263,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">3.</td>
   <td class="tg-yw4l">Happy sugar life</td>
-  <td class="tg-yw4l">Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive with men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love.</td>   
+  <td class="tg-yw4l">Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive to men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/happy-sugar-life-3874?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1299,7 +1272,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">4.</td>
   <td class="tg-yw4l">Berserk</td>
-  <td class="tg-yw4l">Satou Matsuzaka is a beautiful high schooler who has a reputation for being permissive with men. However, a chance encounter with a young girl named Shio Koube makes Satou realize that this is her first and only true feeling of love.</td>   
+  <td class="tg-yw4l">Guts is a lone warrior who was born from a hanged corpse and raised as a mercenary by his abusive adoptive father Gambino. It came to a head when Guts was forced to kill a drunk Gambino in self-defence, fleeing his mercenary group and becoming a wandering sellsword.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/happy-sugar-life-3874?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1309,7 +1282,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">5.</td>
   <td class="tg-yw4l">Sirius the jaeger</td>
-  <td class="tg-yw4l">In the year 1930, vampires have infiltrated Tokyo to feast upon its unsuspecting citizens. As the number of victims continues to rise, the city's authorities decide to hire the Jaegers—a strange, diverse group of individuals tasked by the V Shipping Company.</td>   
+  <td class="tg-yw4l">In the year 1930, vampires infiltrated Tokyo to feast upon its unsuspecting citizens. As the number of victims continues to rise, the city's authorities decide to hire the Jaegers—a strange, diverse group of individuals tasked by the V Shipping Company.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/sirius-the-jaeger-3318?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1319,7 +1292,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">6.</td>
   <td class="tg-yw4l">Ajin</td>
-  <td class="tg-yw4l">Mysterious immortal humans known as "Ajin" first appeared 17 years ago in Africa. Upon their discovery, they were labeled as a threat to mankind, as they might use their powers for evil and were incapable of being destroyed.</td>   
+  <td class="tg-yw4l">Mysterious immortal humans known as "Ajin" first appeared 17 years ago in Africa. Upon their discovery, they were labelled as a threat to mankind, as they might use their powers for evil and were incapable of being destroyed.</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/ajin-demi-human-1512?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1329,7 +1302,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">7.</td>
   <td class="tg-yw4l">Danganronpa</td>
-  <td class="tg-yw4l">Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. </td>   
+  <td class="tg-yw4l">Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enrol receive their own unique titles, suitably reflective of their skills and traits. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/danganronpa-the-animation-2237?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1353,7 +1326,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">9.</td>
   <td class="tg-yw4l"> Blood series </td>
-  <td class="tg-yw4l">Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year</td>   
+  <td class="tg-yw4l">Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anaemia and being unable to remember any of her life beyond the previous year</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/blood-1107?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1372,7 +1345,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 </table>
 
-----------------
+
 
 
 ## 💫Fantasy
@@ -1438,7 +1411,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">6.</td>
   <td class="tg-yw4l"> How Not to Summon a Demon Lord</td>
-  <td class="tg-yw4l">When it comes to the fantasy MMORPG Cross Reverie, none can match the power of the Demon King Diablo. Possessing the game's rarest artifacts and an unrivaled player level, he overpowers all foolish enough to confront him</td>   
+  <td class="tg-yw4l">When it comes to the fantasy MMORPG Cross Reverie, none can match the power of the Demon King Diablo. Possessing the game's rarest artefacts and an unrivalled player level, he overpowers all foolish enough to confront him</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/how-not-to-summon-a-demon-lord-3503?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1457,7 +1430,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 <tr>
   <td class="tg-yw4l">7.</td>
-  <td class="tg-yw4l">Re:Zero- Starting life in Another world</td>
+  <td class="tg-yw4l">Re:Zero- Starting Life in Another World</td>
   <td class="tg-yw4l"> When Subaru Natsuki leaves the convenience store, the last thing he expects is to be wrenched from his everyday life and dropped into a fantasy world. Things aren't looking good for the bewildered teenager; however, not long after his arrival, he is attacked by some thugs. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/rezero-starting-life-in-another-world-212?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
@@ -1486,8 +1459,8 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 <tr>
   <td class="tg-yw4l">10.</td>
-  <td class="tg-yw4l">Is it wrong to pick girls in dungeon?</td>
-  <td class="tg-yw4l">In the city of Orario, where adventurers hunt monsters in a place called Dungeon, Bell Cranel's life was saved by a swordswoman, who is then become the source of Bell's determination to get stronger. </td>   
+  <td class="tg-yw4l">Is it wrong to pick girls in the dungeon?</td>
+  <td class="tg-yw4l">In the city of Orario, where adventurers hunt monsters in a place called Dungeon, Bell Cranel's life was saved by a swordswoman, who then becomes the source of Bell's determination to get stronger. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii-ova-17388?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1497,7 +1470,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">11.</td>
   <td class="tg-yw4l">The rising of the Shield Hero</td>
-  <td class="tg-yw4l">The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviors. Melromarc is a country plagued by the Waves of Catastrophe that have repeatedly ravaged the land and brought disaster to its citizens for centuries </td>   
+  <td class="tg-yw4l">The Four Cardinal Heroes are a group of ordinary men from modern-day Japan summoned to the kingdom of Melromarc to become its saviours. Melromarc is a country plagued by the Waves of Catastrophe that have repeatedly ravaged the land and brought disaster to its citizens for centuries </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/the-rising-of-the-shield-hero-524?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1513,7 +1486,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 </table>
 
--------------
+
 
 ## 🥳ADVENTURE
 
@@ -1569,7 +1542,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">5.</td>
   <td class="tg-yw4l">Jojo's bizzare adventure</td>
-  <td class="tg-yw4l"> In 1868, Dario Brando saves the life of an English nobleman, George Joestar. By taking in Dario's son Dio when the boy becomes fatherless, George hopes to repay the debt he owes to his savior. However Dio, unsatisfied with his station in life, aspires to seize the Joestar house for his own. </td>   
+  <td class="tg-yw4l"> In 1868, Dario Brando saves the life of an English nobleman, George Joestar. By taking in Dario's son Dio when the boy becomes fatherless, George hopes to repay the debt he owes to his saviour. However Dio, unsatisfied with his station in life, aspires to seize the Joestar house for his own. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/search?keyword=Jojo%27s+bizzare+adventure">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1588,7 +1561,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">7.</td>
   <td class="tg-yw4l">Samurai champloo</td>
-  <td class="tg-yw4l"> Fuu Kasumi is a young and clumsy waitress who spends her days peacefully working in a small teahouse. That is, until she accidentally spills a drink all over one of her customers! With a group of samurai now incessantly harassing her, Fuu desperately calls upon another samurai in the shop,</td>   
+  <td class="tg-yw4l"> Fuu Kasumi is a young and clumsy waitress who spends her days peacefully working in a small teahouse. That is until she accidentally spills a drink all over one of her customers! With a group of samurai now incessantly harassing her, Fuu desperately calls upon another samurai in the shop,</td>   
   <td class="tg-yw4l"><a href="https://zoro.to/samurai-champloo-98?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1626,10 +1599,10 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 </table>
 
-------
 
 
-## 🎬Some more movies 
+
+## Movies 
 
 
 <table class="tg">
@@ -1655,7 +1628,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">2.</td>
   <td class="tg-yw4l">A silent voice</td>
-  <td class="tg-yw4l">As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. </td>   
+  <td class="tg-yw4l">As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruellest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/a-silent-voice-11?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1664,7 +1637,7 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 <tr>
   <td class="tg-yw4l">3.</td>
   <td class="tg-yw4l">The girl who leapt through time</td>
-  <td class="tg-yw4l">Makoto Konno is in her last year of high school, but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time. </td>   
+  <td class="tg-yw4l">Makoto Konno is in her last year of high school but is having a hard time deciding what to do with her future. In between enduring the pressure of her teachers and killing time with her best friends, Makoto's life suddenly changes when she accidentally discovers that she is capable of literally leaping through time. </td>   
   <td class="tg-yw4l"><a href="https://zoro.to/the-girl-who-leapt-through-time-285?ref=search">
   <img src="https://img.shields.io/badge/Zoro-F47521?style=for-the-badge&logo=zoro&logoColor=white" width = '' >
 </a></td>
@@ -1763,11 +1736,11 @@ Feel free to explore the Anime folder and discover exciting new anime to add to 
 
 
 # Contributing
-We appreciate contributions from the community to make this watchlist even more comprehensive and diverse. If you have any anime or kdrama recommendations that you believe deserve a spot on this list, please follow these steps:
+We appreciate contributions from the community to make this watchlist even more comprehensive and diverse. If you have any anime or drama recommendations that you believe deserve a spot on this list, please follow these steps:
 
 1. Fork this repository.
 2. Create a new branch with a descriptive name for your contribution.
-3. Add your recommended anime or kdrama to the appropriate folder, following the existing format.
+3. Add your recommended anime or drama to the appropriate folder, following the existing format.
 4. Write a brief description of the series or drama, including the title, genre, synopsis, release year, and rating.
 5. Submit a pull request, explaining the addition you have made and why it should be included.
 
